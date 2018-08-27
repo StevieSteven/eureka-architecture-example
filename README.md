@@ -1,0 +1,1 @@
+# eureka-architecture-example
